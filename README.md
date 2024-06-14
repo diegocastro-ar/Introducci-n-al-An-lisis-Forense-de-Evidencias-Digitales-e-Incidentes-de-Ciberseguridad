@@ -1,15 +1,15 @@
-Curso SADIO | Sociedad Argentina de Informática
+### Curso SADIO | Sociedad Argentina de Informática
 
 Descripción: Propone capacitar a los asistentes dotándolos de conocimientos, metodologías y herramientas que le permitan iniciarse en el análisis forense digital, tanto en el ámbito de las pericias informáticas como en el contexto de los incidentes de ciberseguridad.
 
-Fundamentos:
+#### Fundamentos:
 
 La Forensia Digital se aplica principalmente en dos áreas: en el ámbito de la justicia mediante las pericias informáticas con la inclusión de las evidencias digitales, y en el ámbito empresarial cuando se analizan incidentes de seguridad informática y/o ciberseguridad. En ambos casos, es sustancial el proceso de recolección de evidencias digitales, así como el rigor procedimental y científico de la actuación del analista forense.
 Si bien la Informática Forense se inicia en los 90 cuando desde el ámbito de la justicia se requieren Peritos Informáticos con la aparición de las primeras evidencias digitales, hoy en día, el grado de avance de la inseguridad informática requiere de la formación de especialista en el abordaje e investigación de incidentes de ciberseguridad.
 Con la intención de iniciar al asistente en la realización del Análisis Forense Digital, se presenta el contexto de la Forensia Digital y se lo capacitará dotándolos de conocimientos, metodologías y herramientas que les permitan comprender acerca del rol, alcance y responsabilidades de quienes deseen actuar como Perito Informático y/o Analista Forense Digital.
 Se abordarán cuestiones pluridisciplinarias que promueven un análisis forense más eficiente cuando se aborda desde el campo judicial, conformando equipos de trabajo con profesionales del área del derecho, la criminalística y las fuerzas de seguridad. Y también se brindará una base de conocimiento adecuada y suficiente sobre gestión de incidentes de ciberseguridad.
 
-Objetivo: Al finalizar el curso, se pretende que el asistente sea capaz de: 
+#### Objetivo: Al finalizar el curso, se pretende que el asistente sea capaz de: 
 
 Conocer acerca del estado del arte de la Forensia Digital 
 Conocer acerca de las cuestiones básicas del Derecho Procesal aplicable a la realización de pericias informáticas
@@ -20,7 +20,7 @@ Identificar y aplicar el proceso de tratamiento de la evidencia digital en todas
 Utilizar y evaluar diferentes herramientas forenses. 
 Dirigido a: Profesionales informáticos, Peritos informáticos, Responsables del área de Seguridad TI, Abogados, Lic. en Criminalística, Fuerzas de Seguridad responsables de obtención y análisis de evidencia digital.
 
-Temario:
+#### Temario:
 
 * UNIDAD I – FORENSIA DIGITAL Y DELITOS INFORMÁTICOS: conceptos fundamentales vinculados a la Seguridad de la Información, Seguridad Informática, Ciberseguridad y Auditoría Forense. Antiforensia. Principios del Derecho y legislación relacionada con la Forensia Digital. Los delitos informáticos. Legislación Nacional e Internacional. Tipificación de los Delitos Informáticos. 
 
@@ -34,14 +34,14 @@ Temario:
 
 * UNIDAD VI – TALLERES DE HERRAMIENTAS FORENSES: Operatividad de herramientas forense de acceso libre. Prácticas en modalidad taller de: 
 
-Recuperación de Archivos Borrados
+ Recuperación de Archivos Borrados
 
-Volcado de Memoria
+ Volcado de Memoria
 
-Forensia de Correos Electrónicos
+ Forensia de Correos Electrónicos
 
-Forensia de Teléfonos Celulares
+ Forensia de Teléfonos Celulares
 
-Forensia de Imágenes
+ Forensia de Imágenes
 
-Forensia de Incidentes de Seguridad
+ Forensia de Incidentes de Seguridad
